@@ -1,6 +1,6 @@
 ![https://i.imgur.com/VUwShHf.jpg](https://i.imgur.com/VUwShHf.jpg)
 
-# How to Use GraphQL with Ruby on Rails - Part 1
+# How to Use GraphQL with Ruby on Rails - Part 2
 
 [GraphQL](https://graphql.org/) is a query language for APIs. The query language itself is universal and  not tied to any frontend or backend technology. This characteristic makes it a great choice for many frameworks or patterns you or your company might follow.
 
@@ -8,4 +8,4 @@ I'm going to build a basic API using GraphQL. This will only cover backend/api c
 
 View the full tutorial here: https://web-crunch.com/how-to-use-graphql-with-ruby-on-rails
 
-Part 2: TBD
+Part 1: https://web-crunch.com/how-to-use-graphql-with-ruby-on-rails
