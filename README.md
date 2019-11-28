@@ -10,5 +10,6 @@ View the full tutorial here: https://web-crunch.com/how-to-use-graphql-with-ruby
 
 
 The whole mini-series:
-Part 1: https://web-crunch.com/how-to-use-graphql-with-ruby-on-rails
-Part 2: https://web-crunch.com/how-to-use-graphql-with-ruby-on-rails-part-2
+
+- Part 1: https://web-crunch.com/how-to-use-graphql-with-ruby-on-rails
+- Part 2: https://web-crunch.com/how-to-use-graphql-with-ruby-on-rails-part-2
